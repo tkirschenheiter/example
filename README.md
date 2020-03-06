@@ -11,6 +11,9 @@ Installation/Set-Up:
 Open both all the java files within a project. Use relative path of files from src folder if you add more. Description on how inside program.
 Run program.
 
+Output:
+Images of console from print statements in program.
+
 Dependencies:
 Java 8
 
