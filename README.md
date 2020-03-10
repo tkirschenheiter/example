@@ -8,7 +8,7 @@ I changed the file into a TSV file (program will only work with TSVs) because of
 To use program simply convert any CSV into a TSV.
 
 Installation/Set-Up:
-Open both all the java files within a project. Use relative path of files from src folder if you add more. Description on how inside program.
+Open all the java files within a project. File with main is musicPlaylistMain. Use relative path of files from src folder if you add more. Description on how mehtods and files work inside program.
 Run program.
 
 Output:
